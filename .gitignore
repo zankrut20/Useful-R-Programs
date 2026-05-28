@@ -1,0 +1,36 @@
+# History and Workspace Data
+.RData
+.Rhistory
+.Rapp.history
+.Ruserdata
+
+# RStudio specific files
+.Rproj.user/
+
+# Package building and testing artifacts
+*.Rcheck/
+*.tar.gz
+*.tgz
+*.zip
+build/
+
+# Performance profiling and benchmarking outputs
+*.Rprof
+profvis/
+
+# Dynamic document generation
+*.html
+*.pdf
+*.docx
+*_cache/
+*_files/
+
+# R environment management
+renv/library/
+renv/local/
+renv/staging/
+.Rprofile
+
+# OS specific hidden files
+.DS_Store
+Thumbs.db
